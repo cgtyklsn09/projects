@@ -59,11 +59,6 @@ namespace DataLayer
                 sqlCommand.ExecuteNonQuery();
             }
         }
-
-        public static void DeleteCommand(string query)
-        {
-            //
-        }
     }
 }
 
